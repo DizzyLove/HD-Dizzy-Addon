@@ -1,2 +1,2 @@
 # Hideous-Destructor
-Dizzy addons for Hideous Destructor (sprite &amp; sound pack)
+Dizzy addons for Hideous Destructor (sprite & sound pack)
