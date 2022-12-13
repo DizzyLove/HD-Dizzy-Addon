@@ -1,6 +1,8 @@
 Dizzy sprite & sound pack for Hideous Destructor
 -------------------------------------------------
-
+-> Dizzy_Reskins.pk3
 # ZM66 custom sprite and sound that matches the vanilla style. Its a more sleeker looking rifle and it has purple muzzle flash!
-
 # Boss rifle added hand sprite + custom sound (the missing left hand bothered me)
+
+-> HD__ROTT_PISTOL.pk3
+# Rise of the Triad pistol with sound effect from the 1995 game by Apogee Software.
