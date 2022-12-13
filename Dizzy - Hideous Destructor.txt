@@ -1,0 +1,6 @@
+Dizzy sprite & sound pack for Hideous Destructor
+-------------------------------------------------
+
+# ZM66 custom sprite and sound that matches the vanilla style. Its a more sleeker looking rifle and it has purple muzzle flash!
+
+# Boss rifle added hand sprite + custom sound (the missing left hand bothered me)
