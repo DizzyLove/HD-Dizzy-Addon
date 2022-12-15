@@ -9,7 +9,7 @@ Dizzy sprite & sound pack for Hideous Destructor [This is my personal sprite and
 # Altered Hunter sprite.
 # Altered Slayer sprite; purple muzzle flash!💜
 # Pistol, Blooper, Vulcanette is from Melodica's Eriguns reskins for HD.
-#Custom colored reticle for weapons.
+# Custom colored reticle for weapons.
 
 -> HD_ROTT_PISTOL.pk3 [Standalone addon that needs to be loaded separately to use as a pistol replacement] 
 # Rise of the Triad pistol with sound effect from the 1995 game by Apogee Software.
