@@ -1,1 +1,5 @@
-//
+sounds/pistola "sounds/weapons/pistol_fire.wav"
+sounds/pistolb "sounds/weapons/pistol_fire2.wav"
+$random weapons/pistol
+{
+    sounds/pistola sounds/pistolb
