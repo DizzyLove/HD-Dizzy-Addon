@@ -8,7 +8,8 @@ Dizzy sprite & sound pack for Hideous Destructor [This is my personal sprite and
 - Boss rifle added hand sprite + custom sound (the missing left hand bothered me)
 - Altered Hunter sprite.
 - Altered Slayer sprite; purple muzzle flash!💜
-- Pistol, Blooper, Vulcanette is from Melodica's Eriguns reskins for HD.
+- Pistol, Vulcanette is from Melodica's Eriguns reskins for HD.
+- Blooper is ROTTified.
 - Custom colored reticle for weapons.
 - Hazmat Suit sprite from Realm667
 - Implemented addons made by the community : Karla's Imp Translations; Ace's Smug Hoe female mugshot; Rachel Amber voice pack - adds some sound clips from Life Is Strange: Before The Storm to complement the "Hey! Dickhead!" clip used in HD from Matt's site.
