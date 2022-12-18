@@ -1,6 +1,6 @@
 # DizzyOusAddon
 
-Dizzy sprite & sound pack for Hideous Destructor [This is my personal sprite and sound edit I like, my goal is to create a unisex sprite pack that works for both sex while keeping the feel of the game true to vanilla]
+Dizzy sprite & sound pack for Hideous Destructor [This is my personal sprite and sound edit I like, my goal is to create a unisex sprite pack that works for both sex, while keeping the feel of the game true to vanilla]
 -------------------------------------------------
 -> HD-Dizzy-Addon-main.zip
 - ZM66 custom sprite and sound that matches the vanilla style; and it has purple muzzle flash!💜
