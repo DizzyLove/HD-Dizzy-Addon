@@ -3,3 +3,21 @@ sounds/pistolb "sounds/weapons/pistol_fire2.wav"
 $random weapons/pistol
 {
     sounds/pistola sounds/pistolb
+}
+
+doom/hunter1   "sounds/doom/weapons/hunter_fire1.ogg"
+doom/hunter2   "sounds/doom/weapons/hunter_fire2.ogg"
+$random weapons/hunter
+{
+    doom/hunter1 doom/hunter2
+}
+
+
+
+
+doom/slayer1   "sounds/doom/weapons/slayer_fire1.ogg"
+doom/slayer2   "sounds/doom/weapons/slayer_fire2.ogg"
+$random weapons/slayersingle
+{
+    doom/slayer1 doom/slayer2
+}
