@@ -21,3 +21,4 @@ HD_ROTT_PISTOL.pk3 [Standalone addon that needs to be loaded separately to use a
 
 Dizzy ZM66 resound :
 - Alternative ZM66 sound I edited, can be added to the load order.
+![Dizzy HD Pack](https://user-images.githubusercontent.com/61663825/208311409-89252bb7-8df7-4fdb-8ad4-2aac3c98c0e2.png)
