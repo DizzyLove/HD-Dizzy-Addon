@@ -15,7 +15,7 @@ Dizzy sprite & sound pack for Hideous Destructor [This is my personal sprite and
 - If you play with Ted Tweaks loaded, there is a custom first person hazmat suit graphic.
 - Implemented addons made by the community : Karla's Imp Translations; Ace's Smug Hoe female avatar; Rachel Amber voice pack - adds some sound clips from Life Is Strange: Before The Storm to complement the "Hey! Dickhead!" clip used in HD from Matt's site.
 - New "secret revealed" sound effect.
-
+- The Revolver is purple & gold now.💜
 -> Inside the -Optional addons- folder :
 HD_ROTT_PISTOL.pk3 [Standalone addon that needs to be loaded separately to use as a pistol replacement] 
 - Rise of the Triad pistol with sound effect from the 1995 game by Apogee Software.
