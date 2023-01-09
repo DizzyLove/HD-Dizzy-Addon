@@ -21,3 +21,16 @@ $random weapons/slayersingle
 {
     doom/slayer1 doom/slayer2
 }
+
+$playersound        player	male	*pain100	DSPLPAIN
+$playersound        player	male	*pain75		DSPLPA75
+$playersound        player	male	*pain50		DSPLPA50
+$playersound        player	male	*pain25		DSPLPA25
+$playersound        player	female	*pain100	DSFLPAIN
+$playersound        player	female	*pain75		DSFLPA75
+$playersound        player	female	*pain50		DSFLPA50
+$playersound        player	female	*pain25		DSFLPA25
+$playersound        player	female	*land		DSFOOF
+$playersound        player	female	*grunt		DSFNOWAY
+$playersound        player	female	*death		DSFLDETH
+$playersound        player	female	*xdeath		DSFLXDT
