@@ -20,8 +20,6 @@ Dizzy sprite & sound pack for Hideous Destructor [This is my personal sprite and
 -> Inside the -Optional addons- folder :
 HD_ROTT_PISTOL.pk3 [Standalone addon that needs to be loaded separately to use as a pistol replacement] 
 - Rise of the Triad pistol with sound effect from the 1995 game by Apogee Software.
-
-Dizzy ZM66 resound :
 - Alternative ZM66 sound I edited, can be added to the load order.
 - swampie's Resident Evil 1 HUD recolored version to purple & gold.
 - FDA's Hopper recolored to purple.
