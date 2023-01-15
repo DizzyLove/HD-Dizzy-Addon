@@ -8,7 +8,7 @@ Dizzy sprite & sound pack for Hideous Destructor [This is my personal sprite and
 - Boss rifle added hand sprite, gold scope + custom sound (the missing left hand bothered me)
 - Altered Hunter sprite + custom randomized sound.
 - Altered Slayer sprite; purple muzzle flash + custom randomized sound!💜
-- Pistol (Using the legendary two ROTT pistol sounds in a randomized way), Vulcanette is from Melodica's Eriguns reskins for HD.
+- Pistol (Using the legendary two ROTT pistol sounds in a randomized way), from Melodica's Eriguns reskins for HD.
 - Blooper is ROTTified; using the actual ROTT sound effect.
 - Custom colored reticle for weapons.
 - Hazmat Suit sprite from Realm667.
