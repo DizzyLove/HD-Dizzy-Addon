@@ -24,4 +24,5 @@ Rise of the Triad pistol with sound effect from the 1995 game by Apogee Software
 - Swampie's Resident Evil 1 HUD recolored version to purple & gold.
 - FDA's Hopper recolored to purple.
 - Craneo's HDest toygun Vulcanette recolored to gold.
+- Sgt. Major Kiwi's ZM66 Prototype (fits into the HD lore)
 ![Dizzy HD Pack](https://user-images.githubusercontent.com/61663825/208311409-89252bb7-8df7-4fdb-8ad4-2aac3c98c0e2.png)
